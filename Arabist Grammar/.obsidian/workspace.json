@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Урок 1/2.md",
+                "file": "Урок 1/grammar_rule_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2"
+              "title": "grammar_rule_1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Урок 1/2.md",
+                "file": "Урок 1/grammar_rule_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2"
+              "title": "Backlinks for grammar_rule_1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Урок 1/2.md",
+                "file": "Урок 1/grammar_rule_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2"
+              "title": "Outgoing links from grammar_rule_1"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Урок 1/2.md",
+                "file": "Урок 1/grammar_rule_1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2"
+              "title": "Outline of grammar_rule_1"
             }
           }
         ]
@@ -171,7 +171,16 @@
   },
   "active": "281285361c8c2ff5",
   "lastOpenFiles": [
+    "Урок 1/grammar_rule_3.md",
+    "Урок 1/grammar_rule_2.md",
+    "Урок 1/grammar_rule_1.md",
     "Урок 1/1.md",
+    "Урок 2/диалог 2.docx",
+    "Урок 2/grammar_rule_2.md",
+    "Урок 2/grammar_rule_1.md",
+    "Урок 1/диалог 1.docx",
+    "Урок 1/grammar_rule_5.md",
+    "Урок 1/grammar_rule_4.md",
     "Урок 1/2.md",
     "Welcome.md",
     "Урок 3",
